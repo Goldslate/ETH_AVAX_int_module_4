@@ -1,7 +1,7 @@
 # DEGEN TOKEN
 
 This Solidity program encapsulates the code for an ERC20 token named "DEGEN" with the symbol "DGN."
-The token is specifically crafted for facilitating the redemption of in-game purchases.
+The token is specifically crafted to facilitate the redemption of in-game purchases.
 
 ## Description
 
@@ -12,7 +12,7 @@ blockchain-based solutions.
 
 ### Getting Started
 
-To interact with the DEGEN Token, you can start-off by cloning this repo and running
+To interact with the DEGEN Token, you can start off by cloning this repo and running
 
 ```
 npm i
@@ -29,7 +29,7 @@ npx hardhat compile
 To interact with the DEGEN Token smart contract, type in the terminal
 
 ```
-npx harhdat run scripts/<filename>.ts --network fuji
+npx hardhat run scripts/<filename>.ts --network fuji
 ```
 
 The contract is deployed on the Avalanche Fuji-C chain at the address
