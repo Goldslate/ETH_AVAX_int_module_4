@@ -35,7 +35,7 @@ npx hardhat run scripts/<filename>.ts --network fuji
 The contract is deployed on the Avalanche Fuji-C chain at the address
 
 ```
-0xB766A4f5299b2f4e9c1f16Fa922880d1d75cEaEe
+0x525061A71786E8D9bB5193f8158c7A72AaA3c8E3
 ```
 
 ### Authors
